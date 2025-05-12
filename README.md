@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RyonGerringer
-- 👀 I’m interested in automating anything I can.
-- 🌱 I’m currently learning Django along with front end development.
-- 💞️ I’m looking to collaborate on any Django or Python projects.
+- I am a software consultant working on a few Django projects.
 
   
 <!---
